@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.*;
 
 
-public class Airport  {
+public class Airport {
     private List<? extends Plane> planes;
 
     public Airport(List<? extends Plane> planes) {
